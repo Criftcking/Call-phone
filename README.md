@@ -13,4 +13,6 @@
 *uso*
 
 # cd Call-phone
+# bash instalar.sh
 # python llamar.py 
+
